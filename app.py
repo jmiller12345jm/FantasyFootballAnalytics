@@ -93,4 +93,4 @@ if check_password():
 
         # Villain Alert
         villain = df.sort_values(by=["Wins", "Points For"], ascending=[False, True]).iloc[0]
-        st.warning(f"🚨 **League Villain Alert:** {villain['Owner']} has {villain['Wins']} wins despite their scoring!")['Wins']} wins despite their scoring!")
+        st.warning(f"🚨 **League Villain Alert:** {villain['Owner']} has {villain['Wins']} wins despite their scoring!")
