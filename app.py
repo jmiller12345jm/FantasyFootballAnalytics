@@ -58,7 +58,7 @@ if check_password():
         st.info("Data is cached for 10 minutes to keep the app fast.")
 
     # 4. MAIN PAGE (The Analysis)
-    st.title("🏆 Private League Dashboard")
+    st.title("🏆 PEEPEE LEAGUE")
 
     if error:
         st.error(f"Couldn't load data: {error}")
